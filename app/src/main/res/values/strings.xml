@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="nombreperfil">Andy Rubin</string>
+    <string name="origen">New York, Estados Unidos</string>
+    <string name="NumeroPublicacion">42</string>
+    <string name="Publicaciones">Publicaciones</string>
+    <string name="NumeroSeguidores">517</string>
+    <string name="Seguidores">Seguidores</string>
+    <string name="NumeroSiguiendo">284</string>
+    <string name="info">Información</string>
+    <string name="txsalir">Salir</string>
+
+    <string name="TituloHistoriaUno">Android</string>
+    <string name="HistoriaUno">Android es un sistema operativo personalizable y fácil de utilizar basado en el núcleo de Linux creado por Android Inc.</string>
+
+    <string name="TituloHistoriaDos">Apple Inc.</string>
+    <string name="HistoriaDos">Denominada Apple Computer Inc. se inicia el 1 de abril de 1976 en Cupertino.</string>
+
+    <string name="TituloHistoriaTres">IEEE</string>
+    <string name="HistoriaTres">Del Instituto de Ingeniería Eléctrica y Electrónica —conocido por sus siglas IEEE. </string>
+
+    <string name="TituloHistoriaCuatro">Twitter, Inc.</string>
+    <string name="HistoriaCuatro">Twitter es un servicio de microblogging, con sede en San Francisco, California</string>
+
+    <string name="TituloHistoriaCinco">Instagram</string>
+    <string name="HistoriaCinco">Instagram es una red social y aplicación para subir fotos y videos.</string>
+
+    <string name="TituloHistoriaSeis">WhatsApp</string>
+    <string name="HistoriaSeis">WhatsApp es una aplicación de mensajería instantánea para teléfonos inteligentes.</string>
+
+    <string name="TituloHistoriaSiete">Facebook Messenger</string>
+    <string name="HistoriaSiete">Facebook Messenger es un servicio de mensajería instantánea y aplicación de software. </string>
+
+    <string name="TituloHistoriaOcho">Tesla, Inc.</string>
+    <string name="HistoriaOcho">Tesla es una compañía estadounidense ubicada en Silicon Valley, California.</string>
+
+</resources>
